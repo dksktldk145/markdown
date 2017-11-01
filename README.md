@@ -22,6 +22,9 @@
 
 ##### 이미지
 
-![수지 처음처럼](http://cfile9.uf.tistory.com/image/233F604857F3ACD6208420, "수지 처음처럼")
+![수지 처음처럼](http://cfile9.uf.tistory.com/image/233F604857F3ACD6208420 "수지 처음처럼")
 
-###### 6
+###### 참조 이미지
+![수지 처음처럼][1]
+
+[1]: http://cfile9.uf.tistory.com/image/233F604857F3ACD6208420/ "수지 처음처럼"
