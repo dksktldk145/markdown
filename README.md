@@ -3,7 +3,7 @@
 
 *수지*
 ## 링크 연습
-[당신이 잠든사이에](https://namu.wiki/w/%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%9E%A0%EB%93%A0%20%EC%82%AC%EC%9D%B4%EC%97%90,"당신이 잠든사이에")
+[당신이 잠든사이에](https://namu.wiki/w/%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%9E%A0%EB%93%A0%20%EC%82%AC%EC%9D%B4%EC%97%90, "당신이 잠든사이에")
 
 
 [설명](링크,"설명")
