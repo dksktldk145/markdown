@@ -11,6 +11,8 @@
 ### 참조링크
 
 [네이버][1]
+
+___
 [다음][2]
 
 [1]: http://www.naver.com/ "네이버"
@@ -27,4 +29,4 @@
 ###### 참조 이미지
 ![수지 처음처럼][1]
 
-[1]: http://cfile9.uf.tistory.com/image/233F604857F3ACD6208420/ "수지 처음처럼"
+[1]: http://cfile9.uf.tistory.com/image/233F604857F3ACD6208420 "수지 처음처럼"
